@@ -11,6 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": [
+      "@config-plugins/ffmpeg-kit-react-native"
+    ],
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -18,7 +21,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.psquizzle.getmediainfobug"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,6 +32,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d7b38e87-751a-451f-8b30-087bbd74630b"
+      }
     }
   }
 }

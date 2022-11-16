@@ -9,8 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@config-plugins/ffmpeg-kit-react-native": "^3.0.0",
     "expo": "~47.0.6",
+    "expo-build-properties": "^0.4.0",
+    "expo-dev-client": "~2.0.0",
+    "expo-file-system": "~15.1.1",
     "expo-status-bar": "~1.4.2",
+    "ffmpeg-kit-react-native": "^5.1.0",
     "react": "18.1.0",
     "react-native": "0.70.5"
   },
