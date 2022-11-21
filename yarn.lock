@@ -1051,10 +1051,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@config-plugins/ffmpeg-kit-react-native@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@config-plugins/ffmpeg-kit-react-native/-/ffmpeg-kit-react-native-3.0.0.tgz#f72c19f451c3cf60b9bd7618a92e4c920c33adb8"
-  integrity sha512-cew+hRdql9y2w7Xb/+/nPIn95j1QvG642IS5tyymKvnSUlSccv/0h8YShjsGUcJI64e6iIhPttihr7EJnYw1nA==
+"@config-plugins/ffmpeg-kit-react-native@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@config-plugins/ffmpeg-kit-react-native/-/ffmpeg-kit-react-native-4.0.0.tgz#28fb902daa92daa442c7084c0c4ee66234a1f91e"
+  integrity sha512-VSShjGSBLV4JJbz2JS1UhSwym2GqeByHHUragj+rBI/d7vg07EGX9aGwtZwAcG8D1Iq2lqHAvkP9yxBoExE7Pw==
   dependencies:
     semver "^7.3.5"
 
